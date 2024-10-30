@@ -1,0 +1,22 @@
+
+- The system should allow the Office Manager to register new dentists.
+
+- The system must assign a unique ID to each dentist and record their details (First Name, Last Name, Contact Phone, Email, and Specialization).
+
+- The Office Manager should be able to enroll new patients, including capturing their contact and personal details.
+
+- The system should allow patients to request appointments, either by calling or by submitting an online form.
+
+- The Office Manager should be able to book appointments and send confirmation emails to patients.
+
+- The system should allow dentists to sign in and view their scheduled appointments, including patient details.
+
+- Each appointment should be recorded with a specific date, time, and surgery location.
+
+- The system should provide location details for each surgery, including name, address, and phone number.
+
+- Patients should be able to sign in to view, cancel, or request changes to their appointments.
+
+- A dentist should not be assigned more than 5 appointments per week.
+
+- Patients with unpaid bills should not be able to request new appointments.
